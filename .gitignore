@@ -21,3 +21,15 @@
 /yarn-error.log
 
 .byebug_history
+config/database.yml
+.env
+public/uploads
+public/development
+config/mongoid.yml
+public/zip
+app/assets/keys
+
+.idea
+.floo*
+Gemfile
+Gemfile.lock
